@@ -1,0 +1,36 @@
+.mobile_head {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+}
+.inputs {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+}
+.resu {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	color: #900;
+}
+
+#navigation a:hover {
+	background: #CD3301 ;
+	color:#FFFFFF;
+	}
+
+#Tnavigation a {
+	font: 12px Trebuchet MS;
+	color: #003366;
+	line-height:3px;
+	letter-spacing:.0em;
+	text-decoration: none;
+	display:block;
+	padding:8px 2px 10px 5px;
+	
+	}
+	#Tnavigation a:hover {
+	background: #CD3301;
+	color:#FFFFFF;
+	font-size: 12px;
+	font-family: "Trebuchet MS";
+	}
